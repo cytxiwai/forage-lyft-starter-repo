@@ -1,4 +1,4 @@
-from battery.battery import Battery
+from battery import Battery
 from estimated_service_date import estimated_service_date
 
 class SpindlerBattery(Battery):
