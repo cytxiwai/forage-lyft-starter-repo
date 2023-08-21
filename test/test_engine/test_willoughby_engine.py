@@ -2,6 +2,7 @@ import unittest
 import random
 from engine.willoughby_engine import WilloughbyEngine
 
+
 class TestWilloughbyEngine(unittest.TestCase):
 
     def test_needs_service(self):
